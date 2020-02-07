@@ -15,7 +15,7 @@
 ##### Screenshots
 ![packer1](images/packer1.JPG)
 ##### Screenshots
-![pic1](images/pic1.JPG)
+![pic1](images/pic1.jpg)
 ##### Screenshots
 ![powershell](images/powershell.JPG)
 ##### Screenshots
@@ -25,6 +25,6 @@
 ##### Screenshots
 ![virtualbox](images/virtualbox.JPG)
 ##### Screenshots
-![virtualbox1](images/virtualbox1.JPG)
+![virtualbox1](images/virtualbox1.jpg)
 ##### Screenshots
 ![visualstudiocode](images/visualstudiocode.JPG)
